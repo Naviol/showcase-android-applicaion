@@ -62,7 +62,7 @@ This Android app allows student:
   Image loading library for Android
 
 ## Screenshots
-![gif](https://github.com/hkuspace-pu/comp2000hk-assessment-2-hlo-plymouth/blob/main/screenshots/screen_recording.gif) &nbsp; &nbsp; ![image](https://github.com/hkuspace-pu/comp2000hk-assessment-2-hlo-plymouth/blob/main/screenshots/screenshot.png) &nbsp; &nbsp; ![image](https://github.com/hkuspace-pu/comp2000hk-assessment-2-hlo-plymouth/blob/main/screenshots/screenshot_2.png)
+![gif](https://github.com/Naviol/showcase-android-applicaion/blob/main/screenshots/screen_recording.gif) &nbsp; &nbsp; ![image](https://github.com/Naviol/showcase-android-applicaion/blob/main/screenshots/screenshot.png) &nbsp; &nbsp; ![image](https://github.com/Naviol/showcase-android-applicaion/blob/main/screenshots/screenshot_2.png)
 
 ## Permissions
 - Full Network Access
